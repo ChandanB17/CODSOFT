@@ -7,5 +7,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="alibaba.csp.sentinel.okhttp.adapter" level="project" />
+    <dependency>
+        <groupId>com.alibaba.csp</groupId>
+        <artifactId>sentinel-okhttp-adapter</artifactId>
+        <version>1.8.6</version>
+    </dependency>
+
   </component>
 </module>
